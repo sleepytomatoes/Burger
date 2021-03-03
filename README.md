@@ -24,7 +24,7 @@ This application utilizes MySQL Workbench and requires the following npm package
 - mysql 
 
 ## References <a name="references"></a>
-
+Cats App [CatsApp]](https://richmond.bootcampcontent.com/Richmond-Boot-Camp/ur-rich-fsf-pt-11-2020-u-c/tree/master/13-MVC/01-Activities/17-CatsApp)
 
 ## Github <a name="gitcontact"></a>
 Github username: [sleepytomatoes](https://github.com/sleepytomatoes) 
