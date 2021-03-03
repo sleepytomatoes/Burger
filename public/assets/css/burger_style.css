@@ -5,5 +5,14 @@
 
 body {
     background-color: #f1df14;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
+/* 
+  ul {
+    width: 400px;
+    justify-self: start;
+  } */
   
